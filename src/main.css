@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+  @apply bg-background-light dark:bg-background-dark;
+}
+
+html, body, #root {
+  min-height: 100%;
+}
