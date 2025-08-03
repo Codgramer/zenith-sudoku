@@ -4,7 +4,7 @@ A modern, open-source Sudoku game with a clean, user-friendly interface. Play th
 
 🌐 **Live Demo**: [zenith-sudoku.vercel.app](https://zenith-sudoku.vercel.app)
 
-![Screenshot](./docs/Screenshot%2025-08-03%192919.png)
+![Screenshot](./docs/Screenshot 2025-08-03 192919.png)
 
 ---
 
